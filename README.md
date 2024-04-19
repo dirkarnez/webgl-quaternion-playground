@@ -14,3 +14,4 @@ webgl-quaternion-playground
 - Euler identity
 - \$e$ <-> \$j$  
 - [How to Convert a Quaternion to a Rotation Matrix – Automatic Addison](https://automaticaddison.com/how-to-convert-a-quaternion-to-a-rotation-matrix/)
+- Three.js samples

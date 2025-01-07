@@ -1,7 +1,7 @@
 webgl-quaternion-playground
 ===========================
-\$1=1+0j$  
-\$1 \times j^2=(1+0j) \times j^2 = j^2 = -1 $  
+$1=1+0j$   
+$1 \times j^2=1 \times  (\sqrt{-1})^2 = 1 \times -1 = -1$
 - basically \$j$  means anticlockwise 90 degrees on additionally make-up (aka complex / imaginery) plane
 - basically in rotation in computation we add this additionally make-up as the rotating axis
   - that is we add this axis in addition to x, y, z when it comes to 3D. in natural numbers we add z or y (both work exactly the same since they both make 1 dimension rotation possible)

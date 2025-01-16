@@ -7,6 +7,7 @@ $1 \times j^2=1 \times  (\sqrt{-1})^2 = 1 \times -1 = -1$
   - that is we add this axis in addition to x, y, z when it comes to 3D. in natural numbers we add z or y (both work exactly the same since they both make 1 dimension rotation possible)
 ### Maths
 - [Maths goes to the movies | plus.maths.org](https://plus.maths.org/content/maths-goes-movies)
+- [Math for Game Developers - Rotation Quaternions - YouTube](https://www.youtube.com/watch?v=SCbpxiCN0U0&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My&index=32)
 
 ### TODOs
 - [Meaning of Complex Exponential for Electric Engineering | by 최재호 | Medium](https://medium.com/@theorose49/meaning-of-complex-exponential-for-electric-engineering-68de0625603f)

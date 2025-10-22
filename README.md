@@ -16,3 +16,6 @@ $1 \times j^2=1 \times  (\sqrt{-1})^2 = 1 \times -1 = -1$
 - \$e$ <-> \$j$  
 - [How to Convert a Quaternion to a Rotation Matrix – Automatic Addison](https://automaticaddison.com/how-to-convert-a-quaternion-to-a-rotation-matrix/)
 - Three.js samples
+
+### Tutorials
+- [The Story of Quaternions and the Dirac Equation - YouTube](https://www.youtube.com/watch?v=bwWtRvCLcQc)

@@ -6,6 +6,9 @@ $1 \times j^2=1 \times  (\sqrt{-1})^2 = 1 \times -1 = -1$
 - basically in rotation in computation we add this additionally make-up as the rotating axis
   - that is we add this axis in addition to x, y, z when it comes to 3D. in natural numbers we add z or y (both work exactly the same since they both make 1 dimension rotation possible)
 
+### Tools
+- [dirkarnez/complex-number-calculator](https://github.com/dirkarnez/complex-number-calculator)
+
 ### 3D preview
 - [3D cube transformations | JSXGraph share](https://jsxgraph.org/share/example/3d-cube-transformations)
 
@@ -24,3 +27,5 @@ $1 \times j^2=1 \times  (\sqrt{-1})^2 = 1 \times -1 = -1$
 
 ### Tutorials
 - [The Story of Quaternions and the Dirac Equation - YouTube](https://www.youtube.com/watch?v=bwWtRvCLcQc)
+- [Quaternion](https://www.songho.ca/math/quaternion/quaternion.html)
+- [Quaternion to Rotation Matrix](https://www.songho.ca/opengl/gl_quaternion.html)
